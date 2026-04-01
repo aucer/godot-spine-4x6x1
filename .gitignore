@@ -1,0 +1,30 @@
+# Godot 4 import/cache
+*.import
+.import/
+.godot/
+
+# Export presets (usually machine-specific)
+# export_presets.cfg
+
+# Build / export outputs
+*.apk
+*.aab
+*.exe
+*.x86_64
+*.zip
+*.pck
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Temp files
+*.tmp
